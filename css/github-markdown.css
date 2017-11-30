@@ -707,3 +707,8 @@
 .markdown-body hr {
   border-bottom-color: #eee;
 }
+
+.markdown-body .highlight pre, .markdown-body pre {
+  background:#dfd;
+  border:1px dashed #ccc;
+}
